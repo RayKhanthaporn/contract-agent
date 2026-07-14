@@ -7,11 +7,9 @@ and Contracts (RGC) review agent. A user uploads a contract; the agent extracts 
 text, classifies the contract type, reviews every clause against the University's
 preferred contracting positions (Green / Amber / Red / Blue), suggests revised
 wording for deviations, and compares the contract to the matching UoA standard
-template. Reasoning runs on **Microsoft Foundry** (gpt-5-mini + text-embedding-3-small
-+ a File Search knowledge base); OCR runs on **Azure Document Intelligence**; the UI
-and orchestration are a local Python/Streamlit app.
+template. Reasoning runs on **Microsoft Foundry** (gpt-5-mini + text-embedding-3-small + a File Search knowledge base); OCR runs on **Azure Document Intelligence**; the UI and orchestration are a local Python/Streamlit app.
 
-> This document is a working record and is **subject to change** as the project evolves.
+> This document chronicles the evolution of our group project developed as part of COMPSCI 714: **AI Architecture and Design** at the University of Auckland.
 
 ---
 
