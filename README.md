@@ -1,9 +1,6 @@
 # Contract Reviewer Agent
 
-Code adapted from Samnieng.
-
-This branch reworks the starter into a University of Auckland (UoA) Research Grants
-and Contracts (RGC) review agent. A user uploads a contract; the agent extracts the
+This work builds upon the initial project and evolves it into a **University of Auckland (UoA) Research Grants and Contracts (RGC) Review Agent** for assisting with the evaluation of research-related agreements and funding documents. A user uploads a contract; the agent extracts the
 text, classifies the contract type, reviews every clause against the University's
 preferred contracting positions (Green / Amber / Red / Blue), suggests revised
 wording for deviations, and compares the contract to the matching UoA standard
